@@ -36,7 +36,7 @@ If this policy changes, an updated version will be posted at the same URL with a
 
 ## 8. Contact
 
-For questions about this policy, please contact: **[ここにメールアドレスを記入してください / Replace with your contact email]**
+For questions about this policy, please contact: lir.dawning.blue@gmail.com
 
 ---
 
@@ -78,4 +78,4 @@ Simply Music Player（以下「本アプリ」）は Seiru Oba（以下「開発
 
 ## 8. お問い合わせ
 
-本ポリシーに関するお問い合わせ先：**[ここにメールアドレスを記入してください / Replace with your contact email]**
+本ポリシーに関するお問い合わせ先：lir.dawning.blue@gmail.com
